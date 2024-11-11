@@ -28,47 +28,39 @@ In this section, you should go over the different parts of your project, and des
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+- __Main section cards, seeds of success__
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+- small, easily digestible cards of information that inform users of the site good habits to get into to improve mental wellbeing.
+- additional section near the bottom of the page, proving information to users on cognitive therapies, should they need additional help.
+- buttons after cards to direct users to the the resources page for more information, video links etc.
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Wildflower wellbeing. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
+  - also includes a contact section to make communication more accessible.
+  - details asddress of Wildflower Wellbeing institution. 
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __The Contact Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to contact Wildflower Wellness to get more infomration on wellbeing or seek professional services.
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- __Potential Future Features__
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- interactive game promoting wellbeing
+- link/QR code to Wildflower Wellbeing phone app
+- embedded introductory video in hero
 
 ### Features Left to Implement
+- Contact page: well formatted, gentle to the eye with an encouraging message. Designed for users who want to contact Wildflower Wellbeing to request additional information or proffessional services. Provide an option to sign up for a newsletter. 
 
-- Another feature idea
 
 ## Testing 
 
