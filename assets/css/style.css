@@ -12,3 +12,21 @@
     --light-highlight-color: #edb1f1; 
     --bs-body-bg: #9896f1;
 }
+
+h1, h2, h3, p {
+    font-family: var(--primary-font);
+  }
+  
+  h2 {
+    font-style: italic;
+  }
+  
+  .navbar{
+      background-image: url(../images_mental_health/flower-bg.jpg) !important;
+  }
+  
+  .navbar-nav .nav-link {
+      color: black;
+      font-weight: 500;
+      font-size: 1.2em;
+  }
