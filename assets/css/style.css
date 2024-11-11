@@ -94,3 +94,11 @@ footer {
  background-color: var(--light-highlight-color) !important;
  border-color: var(--primary-color) !important;
 }
+
+/*Resouces.html page*/
+
+.card-img {
+  width: 50%;
+  height: 50%;
+  object-fit: cover
+}
