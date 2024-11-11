@@ -1,0 +1,14 @@
+/*Import google font*/
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+/* CSS Variables */
+:root{
+    
+    --primary-font: "Bellota", sans-serif;
+    
+    --primary-color: #8ef6e4;
+    --secondary-color: #9896f1;
+    --highlight-color: #d59bf6; 
+    --light-highlight-color: #edb1f1; 
+    --bs-body-bg: #9896f1;
+}
