@@ -87,3 +87,10 @@ footer {
   margin-top: 50px;
   padding: 20px
 }
+
+/*Customise button colour*/
+
+.btn-primary {
+ background-color: var(--light-highlight-color) !important;
+ border-color: var(--primary-color) !important;
+}
