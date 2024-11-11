@@ -17,42 +17,42 @@ h1, h2, h3, p {
     font-family: var(--primary-font);
   }
   
-  h2 {
+h2 {
     font-style: italic;
   }
   
-  .navbar{
+.navbar{
       background-image: url(../images_mental_health/flower-bg.jpg) !important;
   }
   
-  .navbar-nav .nav-link {
+.navbar-nav .nav-link {
       color: black;
       font-weight: 500;
       font-size: 1.2em;
   }
 
-  /*Adjust size of the carousel*/
+/*Adjust size of the carousel*/
 .carousel-inner .carousel-item img {
     max-height: 450px;
     min-width: auto;
     object-fit: cover;
   }
 
-  /*Slow fade in and out of carousel items*/
-  .carousel-item {
+/*Slow fade in and out of carousel items*/
+.carousel-item {
     transition: transform 5s ease-in-out;
   }
-  .carousel-fade .active.carousel-item-start,
-  .carousel-fade .active.carousel-item-end {
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
     transition: opacity 0s 5s;
   }
 
-  .carousel-caption{
+.carousel-caption{
     font-size: 1.2em;
     color:black;
   }
 
-  /*Style cards of main body
+/*Style cards of main body
 .card-body{
     background-color: var(--highlight-color);
     border-radius: 10px;
@@ -69,3 +69,21 @@ h1, h2, h3, p {
 .italic-sub{
     font-style: italic;
     }
+
+     /*Style Footer*/
+
+.align-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%; /* Ensure the container has a height */
+}
+
+footer {
+  max-width: initial;
+  background-image: url(../images_mental_health/flower-bg.jpg);
+  opacity: 0.9;
+  border-radius: 2%;
+  margin-top: 50px;
+  padding: 20px
+}
