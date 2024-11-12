@@ -24,7 +24,7 @@ In this section, you should go over the different parts of your project, and des
   - This section also features a the "wildflower Wellness" heading including sub-heading and description to explain the purspose of the website to the viewer.
   - Below the description is a contact section for user to easily contact the owners of website should they need further assistance or information.
 
-![Landing Page](/assets/images/screenshots/landing page.PNG)
+![Landing Page](/assets/images/screenshots/landing_page.PNG)
 
 
 - __Main section cards, seeds of success__
@@ -49,8 +49,8 @@ In this section, you should go over the different parts of your project, and des
   - Displays a variety of resources with youtube links to provide information for the user
   - seperated into healthy habits and proffessional services
 
-![Resources 1](/assets/images/screenshots/resources 1.PNG)
-![Resources 2](/assets/images/screenshots/resources 2.PNG)
+![Resources 1](/assets/images/screenshots/resources_1.PNG)
+![Resources 2](/assets/images/screenshots/resources_2.PNG)
 
 - __Potential Future Features__
 
