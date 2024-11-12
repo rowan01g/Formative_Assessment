@@ -5,8 +5,6 @@ Wildflower Wellness is a website that offers a sanctuary for those seeking infor
 
 The content on Wildflower Wellness is curated to empower individuals with practical insights and techniques for enhancing mental well-being. From mindfulness exercises and self-care practices to educational articles on stress management and emotional intelligence, the website covers a broad spectrum of topics, all geared toward nurturing a balanced and healthy mindset. Each section is visually complemented with gentle illustrations and subtle animations that reflect the beauty of nature, reinforcing the website’s mission to provide a digital retreat where visitors can feel supported and motivated to make positive changes. Wildflower Wellness serves as a gentle reminder of the power of nature in healing and the importance of self-care, offering users a refreshing, supportive online space. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -18,7 +16,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes the Home page, Resources, Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](../assets/images/screenshots/navbar.PNG)
 
 - __The landing page image__
 
