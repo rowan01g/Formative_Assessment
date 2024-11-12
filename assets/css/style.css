@@ -99,7 +99,7 @@ footer {
 
 .custom-card {
   height: 200px;
-  background-color: red;
+  background-color: var(--highlight-color);
  }
 
 .card-img {
