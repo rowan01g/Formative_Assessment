@@ -46,12 +46,6 @@ In this section, you should go over the different parts of your project, and des
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __The Contact Page__
-
-  - This page will allow the user to contact Wildflower Wellness to get more infomration on wellbeing or seek professional services.
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
 - __Potential Future Features__
 
 - interactive game promoting wellbeing
@@ -59,18 +53,28 @@ In this section, you should go over the different parts of your project, and des
 - embedded introductory video in hero
 
 ### Features Left to Implement
+- Appropriate links to metal health well-being videos
 - Contact page: well formatted, gentle to the eye with an encouraging message. Designed for users who want to contact Wildflower Wellbeing to request additional information or proffessional services. Provide an option to sign up for a newsletter. 
 
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Navbar
+- Testing: Ensured that the navigation bar displays correctly across all screen sizes, providing smooth access to all sections of the site.
+- Results: The navbar elements remain responsive and easily accessible on desktop, tablet, and mobile views. Dropdown menus, links, and icons all function as expected, providing a seamless navigation experience for users.
+- Edge Cases: Tested scenarios such as rapidly resizing the browser window and multiple quick clicks to confirm the stability of the dropdown menu and navigation links.
+Resources Page
+- Testing: Verified that the Resources page loads all content, links, and embedded resources correctly, allowing users to access valuable materials without issues.
+- Results: The page successfully displays all intended resources, and users can interact with external links and embedded content without any disruptions. The layout adapts well to various screen sizes, maintaining readability and user accessibility.
+- Edge Cases: Checked resource loading with slow network speeds and verified that loading indicators appear, ensuring users know resources are loading. All links were tested for functionality and verified to open in new tabs, preventing any disruption to the user’s main browsing session.
+Contact Footer
+- Testing: Ensured that the contact footer is consistently present across all pages, providing quick access to contact information, social media links, and other footer content.
+- Results: The footer remains fully functional and accessible across different screen sizes and browsers. Social media and email links open correctly, allowing users to reach out easily.
+- Edge Cases: Tested for usability on mobile devices with limited screen real estate, confirming that footer elements remain touch-friendly and accessible. Verified that contact links open in the correct app or in a new tab as intended.
+Main Section with Cards and Embedded Links
+- Testing: Tested each card in the main section to ensure they load correctly and link to the intended pages or resources when clicked.
+- Results: Each card responds well to user interactions, displaying embedded links accurately and consistently. Links open smoothly, allowing users to access content directly without leaving the main page. The cards retain their layout across different screen sizes, making the content easily viewable on smaller screens.
+- Edge Cases: Verified that each card and link functions as expected when accessed rapidly or in quick succession, ensuring smooth transitions. Tested on low-resolution screens to confirm that card content and links are still visible and accessible.
 
 
 ### Validator Testing 
