@@ -59,34 +59,37 @@ In this section, you should go over the different parts of your project, and des
 
 ## Testing 
 
-Navbar
+- __Navbar__
 - Testing: Ensured that the navigation bar displays correctly across all screen sizes, providing smooth access to all sections of the site.
 - Results: The navbar elements remain responsive and easily accessible on desktop, tablet, and mobile views. Dropdown menus, links, and icons all function as expected, providing a seamless navigation experience for users.
 - Edge Cases: Tested scenarios such as rapidly resizing the browser window and multiple quick clicks to confirm the stability of the dropdown menu and navigation links.
-Resources Page
+- __Resources Page__
 - Testing: Verified that the Resources page loads all content, links, and embedded resources correctly, allowing users to access valuable materials without issues.
 - Results: The page successfully displays all intended resources, and users can interact with external links and embedded content without any disruptions. The layout adapts well to various screen sizes, maintaining readability and user accessibility.
 - Edge Cases: Checked resource loading with slow network speeds and verified that loading indicators appear, ensuring users know resources are loading. All links were tested for functionality and verified to open in new tabs, preventing any disruption to the user’s main browsing session.
-Contact Footer
+- __Contact Footer__
 - Testing: Ensured that the contact footer is consistently present across all pages, providing quick access to contact information, social media links, and other footer content.
 - Results: The footer remains fully functional and accessible across different screen sizes and browsers. Social media and email links open correctly, allowing users to reach out easily.
 - Edge Cases: Tested for usability on mobile devices with limited screen real estate, confirming that footer elements remain touch-friendly and accessible. Verified that contact links open in the correct app or in a new tab as intended.
-Main Section with Cards and Embedded Links
+- __Main Section with Cards and Embedded Links__
 - Testing: Tested each card in the main section to ensure they load correctly and link to the intended pages or resources when clicked.
 - Results: Each card responds well to user interactions, displaying embedded links accurately and consistently. Links open smoothly, allowing users to access content directly without leaving the main page. The cards retain their layout across different screen sizes, making the content easily viewable on smaller screens.
 - Edge Cases: Verified that each card and link functions as expected when accessed rapidly or in quick succession, ensuring smooth transitions. Tested on low-resolution screens to confirm that card content and links are still visible and accessible.
 
-
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - Four errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) altough do not affect functionality and are planned to be fixed.
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+The following bugs were disovered. Priority was given to finishing the Contact Us page and the website was suitable as an MVP as these bugs did not affect functionality. 
+- Error: End tag header seen, but there were open elements.
+- Error: Unclosed element div.
+- Error: Bad value assets/images_mental_health/woman running.webp for attribute src on element img: Illegal character in path segment: space is not allowed.
+- Error: Bad value assets/images_mental_health/woman sleeping.webp for attribute src on element img: Illegal character in path segment: space is not allowed.
 
 ## Deployment
 
