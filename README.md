@@ -93,14 +93,12 @@ The following bugs were disovered. Priority was given to finishing the Contact U
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://8000-rowan01g-formativeasses-s7qnws0pr4i.ws.codeinstitute-ide.net/index.html
 
 
 ## Credits 
