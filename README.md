@@ -98,7 +98,7 @@ The following bugs were disovered. Priority was given to finishing the Contact U
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://8000-rowan01g-formativeasses-s7qnws0pr4i.ws.codeinstitute-ide.net/index.html
+The live link can be found here - [https://8000-rowan01g-formativeasses-s7qnws0pr4i.ws.codeinstitute-ide.net/index.html](https://rowan01g.github.io/Formative_Assessment/index.html)
 
 
 ## Credits 
