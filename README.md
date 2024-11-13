@@ -5,9 +5,9 @@ Wildflower Wellness is a website that offers a sanctuary for those seeking infor
 
 The content on Wildflower Wellness is curated to empower individuals with practical insights and techniques for enhancing mental well-being. From mindfulness exercises and self-care practices to educational articles on stress management and emotional intelligence, the website covers a broad spectrum of topics, all geared toward nurturing a balanced and healthy mindset. Each section is visually complemented with gentle illustrations and subtle animations that reflect the beauty of nature, reinforcing the website’s mission to provide a digital retreat where visitors can feel supported and motivated to make positive changes. Wildflower Wellness serves as a gentle reminder of the power of nature in healing and the importance of self-care, offering users a refreshing, supportive online space. 
 
-## Features 
+![responsive](/assets/images/screenshots/amiresponsive.PNG)
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## Features 
 
 ### Existing Features
 
@@ -85,17 +85,8 @@ In this section, you should go over the different parts of your project, and des
 ### Validator Testing 
 
 - HTML
-  - Four errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) altough do not affect functionality and are planned to be fixed.
-- CSS
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
-
-The following bugs were disovered. Priority was given to finishing the Contact Us page and the website was suitable as an MVP as these bugs did not affect functionality. 
-- Error: End tag header seen, but there were open elements.
-- Error: Unclosed element div.
-- Error: Bad value assets/images_mental_health/woman running.webp for attribute src on element img: Illegal character in path segment: space is not allowed.
-- Error: Bad value assets/images_mental_health/woman sleeping.webp for attribute src on element img: Illegal character in path segment: space is not allowed.
 
 ## Deployment
 
