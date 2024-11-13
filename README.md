@@ -5,9 +5,9 @@ Wildflower Wellness is a website that offers a sanctuary for those seeking infor
 
 The content on Wildflower Wellness is curated to empower individuals with practical insights and techniques for enhancing mental well-being. From mindfulness exercises and self-care practices to educational articles on stress management and emotional intelligence, the website covers a broad spectrum of topics, all geared toward nurturing a balanced and healthy mindset. Each section is visually complemented with gentle illustrations and subtle animations that reflect the beauty of nature, reinforcing the website’s mission to provide a digital retreat where visitors can feel supported and motivated to make positive changes. Wildflower Wellness serves as a gentle reminder of the power of nature in healing and the importance of self-care, offering users a refreshing, supportive online space. 
 
-## Features 
+![responsive](/assets/images/screenshots/amiresponsive.PNG)
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## Features 
 
 ### Existing Features
 
