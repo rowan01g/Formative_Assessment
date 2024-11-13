@@ -85,17 +85,8 @@ The content on Wildflower Wellness is curated to empower individuals with practi
 ### Validator Testing 
 
 - HTML
-  - Four errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) altough do not affect functionality and are planned to be fixed.
-- CSS
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
-
-The following bugs were disovered. Priority was given to finishing the Contact Us page and the website was suitable as an MVP as these bugs did not affect functionality. 
-- Error: End tag header seen, but there were open elements.
-- Error: Unclosed element div.
-- Error: Bad value assets/images_mental_health/woman running.webp for attribute src on element img: Illegal character in path segment: space is not allowed.
-- Error: Bad value assets/images_mental_health/woman sleeping.webp for attribute src on element img: Illegal character in path segment: space is not allowed.
 
 ## Deployment
 
