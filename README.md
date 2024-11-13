@@ -11,12 +11,9 @@ The content on Wildflower Wellness is curated to empower individuals with practi
 
 A basic wire frame for the Home, Resources and Contact page was created in photoshop prior to building the website.
 
-![home wireframe](/assets/images/screenshots/home_wireframe.png)
-![resources wireframe](/assets/images/screenshots/resources_wireframe.png)
-![contact wireframe](/assets/images/screenshots/contact_wireframe.png)
-
-<img src="/assets/images/screenshots/home_wireframe.png" width="50%">
-
+![home wireframe]<img src="/assets/images/screenshots/home_wireframe.png" width="50%">
+![resources wireframe]<img src="/assets/images/screenshots/resources_wireframe.png" width="50%">
+![contact wireframe]<img src="/assets/images/screenshots/contact_wireframe.png" width="50%">
 
 ## Features 
 
