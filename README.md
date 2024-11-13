@@ -15,7 +15,7 @@ A basic wire frame for the Home, Resources and Contact page was created in photo
 ![resources wireframe](/assets/images/screenshots/resources_wireframe.png)
 ![contact wireframe](/assets/images/screenshots/contact_wireframe.png)
 
-<img src=/assets/images/screenshots/home_wireframe.png width="48">
+<img src="/assets/images/screenshots/home_wireframe.png" width="48">
 
 
 ## Features 
